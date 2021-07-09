@@ -1,1 +1,6 @@
 # Title #
+
+
+* scrum
+* kanban
+* xp
