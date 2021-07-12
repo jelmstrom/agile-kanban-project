@@ -4,3 +4,4 @@
 * scrum
 * kanban
 * xp
+* scam
